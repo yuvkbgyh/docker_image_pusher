@@ -6,5 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 sagikazarmark/dvwa
 acgpiano/sqli-labs
-c0ny1/upload-labs
-xss-challenge-tour:2025.1
+
