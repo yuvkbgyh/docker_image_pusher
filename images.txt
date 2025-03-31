@@ -10,3 +10,4 @@ phpmyadmin
 mysql
 php
 php:7.2-apache
+c0ny1/xss-challenge-tour
