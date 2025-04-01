@@ -11,4 +11,4 @@ mysql
 php
 php:7.2-apache
 c0ny1/xss-challenge-tour
-cytopia/dvwa:php-8.1
+cytopia/dvwa:latest
